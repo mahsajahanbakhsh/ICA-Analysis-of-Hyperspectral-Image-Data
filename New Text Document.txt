@@ -1,0 +1,102 @@
+Component Ranking Report
+========================
+Rank 1: Component 36
+  Mean: 0.000, Variance: 1.000
+  Skewness: 36.304, Kurtosis: 3284.663
+  Combined Rank Metric: 3320.967
+----------------------------------------
+Rank 2: Component 142
+  Mean: 0.000, Variance: 1.000
+  Skewness: 17.858, Kurtosis: 482.288
+  Combined Rank Metric: 500.146
+----------------------------------------
+Rank 3: Component 78
+  Mean: -0.000, Variance: 1.000
+  Skewness: -11.237, Kurtosis: 326.913
+  Combined Rank Metric: 338.149
+----------------------------------------
+Rank 4: Component 175
+  Mean: 0.000, Variance: 1.000
+  Skewness: -15.026, Kurtosis: 281.826
+  Combined Rank Metric: 296.852
+----------------------------------------
+Rank 5: Component 147
+  Mean: 0.000, Variance: 1.000
+  Skewness: 10.342, Kurtosis: 275.108
+  Combined Rank Metric: 285.450
+----------------------------------------
+Rank 6: Component 87
+  Mean: -0.000, Variance: 1.000
+  Skewness: 9.339, Kurtosis: 271.761
+  Combined Rank Metric: 281.100
+----------------------------------------
+Rank 7: Component 150
+  Mean: -0.000, Variance: 1.000
+  Skewness: 10.767, Kurtosis: 214.306
+  Combined Rank Metric: 225.073
+----------------------------------------
+Rank 8: Component 105
+  Mean: -0.000, Variance: 1.000
+  Skewness: -10.210, Kurtosis: 192.538
+  Combined Rank Metric: 202.748
+----------------------------------------
+Rank 9: Component 191
+  Mean: -0.000, Variance: 1.000
+  Skewness: -7.962, Kurtosis: 189.652
+  Combined Rank Metric: 197.614
+----------------------------------------
+Rank 10: Component 110
+  Mean: -0.000, Variance: 1.000
+  Skewness: -6.742, Kurtosis: 185.123
+  Combined Rank Metric: 191.866
+----------------------------------------
+Rank 11: Component 91
+  Mean: -0.000, Variance: 1.000
+  Skewness: 7.475, Kurtosis: 180.809
+  Combined Rank Metric: 188.284
+----------------------------------------
+Rank 12: Component 128
+  Mean: -0.000, Variance: 1.000
+  Skewness: 11.416, Kurtosis: 174.558
+  Combined Rank Metric: 185.975
+----------------------------------------
+Rank 13: Component 135
+  Mean: 0.000, Variance: 1.000
+  Skewness: -10.788, Kurtosis: 168.349
+  Combined Rank Metric: 179.137
+----------------------------------------
+Rank 14: Component 61
+  Mean: 0.000, Variance: 1.000
+  Skewness: 8.707, Kurtosis: 156.590
+  Combined Rank Metric: 165.297
+----------------------------------------
+Rank 15: Component 41
+  Mean: -0.000, Variance: 1.000
+  Skewness: -9.844, Kurtosis: 141.210
+  Combined Rank Metric: 151.054
+----------------------------------------
+Rank 16: Component 96
+  Mean: -0.000, Variance: 1.000
+  Skewness: 2.426, Kurtosis: 131.568
+  Combined Rank Metric: 133.993
+----------------------------------------
+Rank 17: Component 90
+  Mean: 0.000, Variance: 1.000
+  Skewness: 8.865, Kurtosis: 120.706
+  Combined Rank Metric: 129.571
+----------------------------------------
+Rank 18: Component 35
+  Mean: -0.000, Variance: 1.000
+  Skewness: 2.580, Kurtosis: 95.404
+  Combined Rank Metric: 97.984
+----------------------------------------
+Rank 19: Component 156
+  Mean: -0.000, Variance: 1.000
+  Skewness: -2.836, Kurtosis: 91.848
+  Combined Rank Metric: 94.684
+----------------------------------------
+Rank 20: Component 124
+  Mean: 0.000, Variance: 1.000
+  Skewness: 5.234, Kurtosis: 81.032
+  Combined Rank Metric: 86.265
+----------------------------------------
