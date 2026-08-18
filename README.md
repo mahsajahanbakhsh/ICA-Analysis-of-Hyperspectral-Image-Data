@@ -1,10 +1,4 @@
-# ICA-Analysis-of-Hyperspectral-Image-Data
 
-
-
-A dimensionality-reduction study applying **Independent Component Analysis (ICA)** to hyperspectral imagery, using the classic **Indian Pines** dataset. The project ranks independent components by their statistical independence (skewness + kurtosis) and visualizes the most informative ones.
-
-# ICA Analysis of Hyperspectral Image Data
 
 A dimensionality-reduction study applying **Independent Component Analysis (ICA)** to hyperspectral imagery, using the classic **Indian Pines** dataset. The project ranks independent components by their statistical independence (skewness + kurtosis) and visualizes the most informative ones.
 
